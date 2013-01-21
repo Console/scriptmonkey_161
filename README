@@ -1,0 +1,3 @@
+This was initially done just to lessen the pain when assessing SNMP services across non-standard SNMP ports. Rather than have to re-compile it time after time I rigged it now so that the -p argument will allow you to scan a non-standard port.
+
+it will also work across an entire list of hosts and output cleanly, unlikely my early attempts.
